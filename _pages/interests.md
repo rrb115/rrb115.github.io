@@ -5,6 +5,24 @@ layout: minimal-home
 author_profile: false
 ---
 
-<p>I am interested in operating systems, distributed systems, high-performance computing, and blockchain.</p>
+### Focus Areas
 
-<p>I am currently learning Golang, C, C++, and Python.</p>
+- Operating systems
+- Distributed systems
+- High-performance computing
+- Blockchain
+
+### Learning
+
+- Golang
+- C
+- C++
+- Python
+
+### Outside Work
+
+- I often play League of Legends.
+
+### Books Planned to Read
+
+- [Add book names from your reading list]
