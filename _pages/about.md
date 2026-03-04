@@ -29,6 +29,9 @@ Currently learning Golang, C, C++, and Python.
 - [Interests](/interests/)
 
 ---
+---
+---
+---
 
 <footer>
 Email: <a href="mailto:bandekarajat@gmail.com">bandekarajat@gmail.com</a><br>
