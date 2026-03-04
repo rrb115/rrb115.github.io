@@ -17,7 +17,7 @@ Interested in operating systems, distributed systems, high-performance computing
 
 Currently learning Golang, C, C++, and Python.
 - [View CV](/assets/cv.pdf){:target="_blank"}
-
+- [Contact](/contact/)
 ### Projects
 
 - [Verifiable Distributed Configuration System (VDCS)](/projects/vdcs/) – cryptographically verifiable, append-only configuration store that pairs Ed25519 signatures, SHA-256 Merkle proofs, gRPC, and Protobuf so every value can be verified.
@@ -27,4 +27,11 @@ Currently learning Golang, C, C++, and Python.
 ### More
 
 - [Interests](/interests/)
-- [Contact](/contact/)
+
+---
+
+<footer>
+Email: <a href="mailto:bandekarajat@gmail.com">bandekarajat@gmail.com</a><br>
+GitHub: <a href="https://github.com/rrb115" target="_blank">@rrb115</a>
+</footer>
+

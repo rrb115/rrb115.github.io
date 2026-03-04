@@ -22,7 +22,7 @@
       {% else %}
         <span></span>
       {% endif %}
-      <button type="button" id="theme-toggle" aria-label="Toggle color theme">Light mode</button>
+      <button type="button" id="theme-toggle" aria-label="Toggle color theme">Light</button>
     </div>
     {{ content }}
   </div>
@@ -38,7 +38,7 @@
       }
 
       var currentTheme = root.getAttribute('data-theme') || 'dark';
-      toggle.textContent = currentTheme === 'dark' ? 'Light mode' : 'Dark mode';
+      toggle.textContent = currentTheme === 'dark' ? 'Light' : 'Dark';
 
       toggle.addEventListener('click', function() {
         var nextTheme = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
