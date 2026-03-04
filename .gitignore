@@ -1,20 +1,17 @@
-# Ignore the contents of the _site directory and other cache directories
+# Jekyll output and caches
 _site/
-.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
-# Ignore the directory for local files during development
-local/
-
-# Ignore the Gemfile that is generated
+# Ruby/Bundler
+.bundle/
+vendor/
 Gemfile.lock
 
-# Ignore files created by npm
-node_modules
-package-lock.json
+# Local development directories
+local/
 
-# Ignore the vendor file and bundle for alternative installation
-vendor/
-.bundle/
-
-# Ignore folders related to IDEs
+# OS/editor files
+.DS_Store
 .vscode/
+.idea/
