@@ -11,11 +11,12 @@ redirect_from:
 
 **Rajat Bandekar**
 
-Computer Engineering student pursuing **BTech CE**.
+**B.Tech.Computer Engineering** student.
 
 Interested in operating systems, distributed systems, high-performance computing, and blockchain.
 
 Currently learning Golang, C, C++, and Python.
+- [View CV](/assets/cv.pdf){:target="_blank"}
 
 ### Projects
 

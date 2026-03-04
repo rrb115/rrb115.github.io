@@ -12,7 +12,7 @@ author_profile: false
 - High-performance computing
 - Blockchain
 
-### Learning
+### Languages
 
 - Golang
 - C
@@ -22,7 +22,8 @@ author_profile: false
 ### Outside Work
 
 - I often play League of Legends.
+- Also [carrom](https://en.wikipedia.org/wiki/Carrom) (although, I have terrible aim).
 
 ### Books Planned to Read
 
-- [Add book names from your reading list]
+- 
