@@ -5,11 +5,46 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="{{ page.description | default: site.description }}">
+  <script>
+    (function() {
+      var savedTheme = localStorage.getItem('theme');
+      var theme = savedTheme === 'light' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', theme);
+    })();
+  </script>
   <link rel="stylesheet" type="text/css" href="{{ '/assets/site.css' | relative_url }}">
 </head>
 <body>
   <div id="content">
+    <div class="page-controls">
+      {% if page.permalink != '/' %}
+        <a class="back-home" href="{{ '/' | relative_url }}">← Home</a>
+      {% else %}
+        <span></span>
+      {% endif %}
+      <button type="button" id="theme-toggle" aria-label="Toggle color theme">Light mode</button>
+    </div>
     {{ content }}
   </div>
+  <script>
+    (function() {
+      var root = document.documentElement;
+      var toggle = document.getElementById('theme-toggle');
+
+      function setTheme(theme) {
+        root.setAttribute('data-theme', theme);
+        localStorage.setItem('theme', theme);
+        toggle.textContent = theme === 'dark' ? 'Light mode' : 'Dark mode';
+      }
+
+      var currentTheme = root.getAttribute('data-theme') || 'dark';
+      toggle.textContent = currentTheme === 'dark' ? 'Light mode' : 'Dark mode';
+
+      toggle.addEventListener('click', function() {
+        var nextTheme = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+        setTheme(nextTheme);
+      });
+    })();
+  </script>
 </body>
 </html>
