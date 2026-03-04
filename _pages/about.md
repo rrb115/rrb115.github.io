@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Rajat Bandekar"
-description: "Site of Rajat Bandekar, engineer and entrepreneur."
+description: "Site of Rajat Bandekar, Computer Engineering student."
 layout: minimal-home
 author_profile: false
 redirect_from: 
@@ -9,16 +9,16 @@ redirect_from:
   - /about.html
 ---
 
-<p>This is the site of <b>Rajat Bandekar</b>, engineer and entrepreneur.</p>
+<p>This is the site of <b>Rajat Bandekar</b>, a Computer Engineering student.</p>
 
-<p>I'm currently working with <a href="/contact/">[placeholder: current team/company]</a>.</p>
+<p>I am pursuing a <b>BTech CE</b> degree and I am interested in operating systems, distributed systems, high-performance computing, and blockchain.</p>
 
-<p>Previously I worked on software engineering projects across full-stack development, systems, and product-focused builds. This section is a placeholder until you add your detailed background.</p>
+<p>I am currently learning Golang, C, C++, and Python.</p>
 
 <ul class="index">
-  <li><span class="index-date">2026-02</span><a href="/writing/starting-point/">Starting Point</a></li>
-  <li><span class="index-date">2026-01</span><a href="/writing/project-placeholder/">Project Placeholder</a></li>
+  <li><span class="index-date">∞</span><a href="/projects/vdcs/">Verifiable Distributed Configuration System (VDCS)</a></li>
+  <li><span class="index-date">∞</span><a href="/projects/dd-vote/">Distributed Democracy Vote</a></li>
+  <li><span class="index-date">∞</span><a href="/projects/privacy-identity-zkp/">Privacy Preserving Identity Verification</a></li>
   <li><span class="index-date">∞</span><a href="/interests/">Interests</a></li>
   <li><span class="index-date">∞</span><a href="/contact/">Contact</a></li>
-  <li><span class="index-date">∞</span><a href="/colophon/">Colophon</a></li>
 </ul>

@@ -1,10 +1,10 @@
 ---
-title: "Project Placeholder"
-permalink: /writing/project-placeholder/
+title: "Distributed Democracy Vote"
+permalink: /projects/dd-vote/
 layout: minimal-home
 author_profile: false
 ---
 
-<p>This is a placeholder for a project write-up.</p>
+<p><b>DD-Vote</b> is a simulated voting system designed to demonstrate fundamental concepts in distributed computing.</p>
 
-<p>[placeholder: add context, approach, and outcomes for your project]</p>
+<p>It features multiple server instances communicating with each other for fault tolerance, and a client application for users to register, log in, and vote.</p>

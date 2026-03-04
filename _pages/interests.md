@@ -5,6 +5,6 @@ layout: minimal-home
 author_profile: false
 ---
 
-<p>Interests page placeholder.</p>
+<p>I am interested in operating systems, distributed systems, high-performance computing, and blockchain.</p>
 
-<p>Add your long-term interests, topics you read about, and side projects here.</p>
+<p>I am currently learning Golang, C, C++, and Python.</p>
