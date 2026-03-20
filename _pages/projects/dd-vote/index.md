@@ -1,7 +1,7 @@
 ---
 title: "Distributed Democracy Vote"
 permalink: /projects/dd-vote/
-layout: minimal-home
+layout: home
 author_profile: false
 ---
 

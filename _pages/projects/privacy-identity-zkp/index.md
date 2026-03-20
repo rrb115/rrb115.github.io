@@ -1,7 +1,7 @@
 ---
 title: "Privacy Preserving Identity Verification"
 permalink: /projects/privacy-identity-zkp/
-layout: minimal-home
+layout: home
 author_profile: false
 ---
 

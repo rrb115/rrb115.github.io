@@ -1,7 +1,7 @@
 ---
 title: "Verifiable Distributed Configuration System (VDCS)"
 permalink: /projects/vdcs/
-layout: minimal-home
+layout: home
 author_profile: false
 ---
 
