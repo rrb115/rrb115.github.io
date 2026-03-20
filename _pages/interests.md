@@ -1,7 +1,7 @@
 ---
 title: "Interests"
 permalink: /interests/
-layout: minimal-home
+layout: home
 author_profile: false
 ---
 
@@ -9,13 +9,13 @@ author_profile: false
 
 - Operating systems
 - Distributed systems
-- High-performance computing
 - Blockchain
+- Computer Networks
+- High-Performance Computing
 
 ### Languages
 
 - Golang
-- C
 - C++
 - Python
 
@@ -26,4 +26,6 @@ author_profile: false
 
 ### Books Planned to Read
 
-- 
+- The Drunkard’s Walk — Leonard Mlodinow
+- The Evolution of Cooperation — Robert Axelrod
+- Chip War - Chris Miller

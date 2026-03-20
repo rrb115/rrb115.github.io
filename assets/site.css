@@ -64,9 +64,11 @@ a {
   background: transparent;
   color: var(--text);
   border-radius: 999px;
-  padding: 4px 12px;
+  padding: 4px 8px;
   font: inherit;
   cursor: pointer;
+  width: 6ch;
+  text-align: center;
 }
 
 #theme-toggle:hover,

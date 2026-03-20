@@ -2,7 +2,7 @@
 permalink: /
 title: "Rajat Bandekar"
 description: "Computer Engineering student."
-layout: minimal-home
+layout: home
 author_profile: false
 redirect_from: 
   - /about/

@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 permalink: /contact/
-layout: minimal-home
+layout: home
 author_profile: false
 ---
 
