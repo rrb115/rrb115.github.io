@@ -13,7 +13,7 @@ redirect_from:
 
 **B.Tech.Computer Engineering** student.
 
-Interested in operating systems, distributed systems, high-performance computing, and blockchain.
+Interested in operating systems, distributed systems, computer networks, blockchain and HPC.
 
 Currently learning Golang, C, C++, and Python.
 - [View CV](/assets/cv.pdf){:target="_blank"}
@@ -28,10 +28,6 @@ Currently learning Golang, C, C++, and Python.
 
 - [Interests](/interests/)
 
----
----
----
----
 
 <footer>
 Email: <a href="mailto:bandekarajat@gmail.com">bandekarajat@gmail.com</a><br>
